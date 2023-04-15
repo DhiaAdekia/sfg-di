@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="04a18ca6-73cb-4705-9882-333e3a083ed6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dhia/dhiadi/Controller/ConstructorInjectedController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dhia/dhiadi/Controller/I18nController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dhia/dhiadi/Controller/MyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dhia/dhiadi/Controller/PropertyInjectedController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dhia/dhiadi/Controller/SetterInjectedController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dhia/dhiadi/DhiaDiApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dhia/dhiadi/config/GreetingSpringConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dhia/dhiadi/datasouce/FakeDataSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dhia/dhiadi/repositories/EnglishGreetingRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dhia/dhiadi/repositories/EnglishGreetingRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dhia/dhiadi/services/GreetingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dhia/dhiadi/services/GreetingServiceConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dhia/dhiadi/services/GreetingServiceProperty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dhia/dhiadi/services/GreetingServiceSetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dhia/dhiadi/services/I18nEnglishGreetingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dhia/dhiadi/services/I18nSpanishGreetingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dhia/dhiadi/services/PrimaryGreetingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dhia/dhiadi/services/ProtypeBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dhia/dhiadi/services/SingletonBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/datasource.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/dhia/dhiadi/Controller/ConstructorInjectedControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/dhia/dhiadi/Controller/PropertyInjectedControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/dhia/dhiadi/Controller/SetterInjectedControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/dhia/dhiadi/DhiaDiApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="9f3c4208-8153-488f-8cae-4e3295a6abd6" />
+        <option name="url" value="https://github.com/DhiaAdekia/sfg-di.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2K8JZ8sLHYstXJ7PnH5pFfScLhu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "/home/dhia/Desktop/auto-formation/java-formation/recipe",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.45057473",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
+    "spring.configuration.checksum": "3612cfdc9da22a695c22325e16757dc9",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.dhia.dhiadi.repositories" />
+      <recent name="com.dhia.dhiadi.services" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.dhia.dhiadi.Controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DhiaDiApplication">
+    <configuration name="ConstructorInjectedControllerTest.sayGreeting" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sfg-di" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dhia.dhiadi.Controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dhia.dhiadi.Controller" />
+      <option name="MAIN_CLASS_NAME" value="com.dhia.dhiadi.Controller.ConstructorInjectedControllerTest" />
+      <option name="METHOD_NAME" value="sayGreeting" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PropertyInjectedControllerTest.getGreeting" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sfg-di" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dhia.dhiadi.Controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dhia.dhiadi.Controller" />
+      <option name="MAIN_CLASS_NAME" value="com.dhia.dhiadi.Controller.PropertyInjectedControllerTest" />
+      <option name="METHOD_NAME" value="getGreeting" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetterInjectedControllerTest.sayGreeting" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sfg-di" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dhia.dhiadi.Controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dhia.dhiadi.Controller" />
+      <option name="MAIN_CLASS_NAME" value="com.dhia.dhiadi.Controller.SetterInjectedControllerTest" />
+      <option name="METHOD_NAME" value="sayGreeting" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DhiaDiApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="dhia-di" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dhia.dhiadi.DhiaDiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DhiaDiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="sfg-di" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dhia.dhiadi.DhiaDiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ConstructorInjectedControllerTest.sayGreeting" />
+        <item itemvalue="JUnit.SetterInjectedControllerTest.sayGreeting" />
+        <item itemvalue="JUnit.PropertyInjectedControllerTest.getGreeting" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04a18ca6-73cb-4705-9882-333e3a083ed6" name="Changes" comment="" />
+      <created>1673350328955</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673350328955</updated>
+      <workItem from="1673350331219" duration="166000" />
+      <workItem from="1673350513111" duration="2840000" />
+      <workItem from="1673353635969" duration="22506000" />
+      <workItem from="1673654908761" duration="932000" />
+      <workItem from="1673719854570" duration="2005000" />
+      <workItem from="1673824836357" duration="1409000" />
+      <workItem from="1673947212860" duration="1376000" />
+      <workItem from="1673983954597" duration="611000" />
+      <workItem from="1674037393004" duration="2689000" />
+      <workItem from="1675951903029" duration="4976000" />
+      <workItem from="1676226739086" duration="9385000" />
+      <workItem from="1676578920059" duration="692000" />
+      <workItem from="1677000509293" duration="618000" />
+      <workItem from="1677330729273" duration="2594000" />
+      <workItem from="1677414119640" duration="4724000" />
+      <workItem from="1681519256370" duration="989000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
